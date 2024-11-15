@@ -32,7 +32,7 @@
 ---
 
 ## Documentation
-
+## By Mudassir Alam
 We aim to evolve it to suit many more use cases than SQLite was originally designed for, and plan to use third-party OSS code wherever it makes sense. 
 
 libSQL has many great features, including:
